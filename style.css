@@ -1,0 +1,16 @@
+body{
+    background: red;
+}
+#P1{
+    background: white;
+    width: 800px;
+}
+#P2{
+    background: white;
+    width: 800px;
+}
+.login{
+    background: blue;
+    width: 300px;
+    color: white;
+}
